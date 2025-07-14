@@ -1,7 +1,7 @@
 # Learning-Progress-Dashboard
 # 📊 Learning Tracker & Dashboard – Smart Google Sheets Automation
 
-This project is a self-designed Google Sheets system that helps me monitor, forecast, and manage progress during my transition into data analytics.
+This project is a self-designed Google Sheets system that helps me monitor, forecast, and manage learning progress in my transition into data analytics.
 
 ## 🔍 Overview
 
